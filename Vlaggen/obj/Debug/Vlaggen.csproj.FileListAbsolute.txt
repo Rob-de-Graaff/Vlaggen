@@ -1,0 +1,30 @@
+D:\MSI BU\Save\ITVitae\Opdrachten\Serie 1\Opdracht 2 Vlaggen van de wereld\Vlaggen\Vlaggen\obj\Debug\Vlaggen.csprojAssemblyReference.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Serie 1\Opdracht 2 Vlaggen van de wereld\Vlaggen\Vlaggen\obj\Debug\MainWindow.g.cs
+D:\MSI BU\Save\ITVitae\Opdrachten\Serie 1\Opdracht 2 Vlaggen van de wereld\Vlaggen\Vlaggen\obj\Debug\App.g.cs
+D:\MSI BU\Save\ITVitae\Opdrachten\Serie 1\Opdracht 2 Vlaggen van de wereld\Vlaggen\Vlaggen\obj\Debug\Vlaggen_MarkupCompile.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Serie 1\Opdracht 2 Vlaggen van de wereld\Vlaggen\Vlaggen\obj\Debug\Vlaggen_MarkupCompile.lref
+D:\MSI BU\Save\ITVitae\Opdrachten\Serie 1\Opdracht 2 Vlaggen van de wereld\Vlaggen\Vlaggen\bin\Debug\Vlaggen.exe.config
+D:\MSI BU\Save\ITVitae\Opdrachten\Serie 1\Opdracht 2 Vlaggen van de wereld\Vlaggen\Vlaggen\bin\Debug\Vlaggen.exe
+D:\MSI BU\Save\ITVitae\Opdrachten\Serie 1\Opdracht 2 Vlaggen van de wereld\Vlaggen\Vlaggen\bin\Debug\Vlaggen.pdb
+D:\MSI BU\Save\ITVitae\Opdrachten\Serie 1\Opdracht 2 Vlaggen van de wereld\Vlaggen\Vlaggen\obj\Debug\MainWindow.baml
+D:\MSI BU\Save\ITVitae\Opdrachten\Serie 1\Opdracht 2 Vlaggen van de wereld\Vlaggen\Vlaggen\obj\Debug\Vlaggen.g.resources
+D:\MSI BU\Save\ITVitae\Opdrachten\Serie 1\Opdracht 2 Vlaggen van de wereld\Vlaggen\Vlaggen\obj\Debug\Vlaggen.Properties.Resources.resources
+D:\MSI BU\Save\ITVitae\Opdrachten\Serie 1\Opdracht 2 Vlaggen van de wereld\Vlaggen\Vlaggen\obj\Debug\Vlaggen.csproj.GenerateResource.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Serie 1\Opdracht 2 Vlaggen van de wereld\Vlaggen\Vlaggen\obj\Debug\Vlaggen.csproj.CoreCompileInputs.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Serie 1\Opdracht 2 Vlaggen van de wereld\Vlaggen\Vlaggen\obj\Debug\Vlaggen.exe
+D:\MSI BU\Save\ITVitae\Opdrachten\Serie 1\Opdracht 2 Vlaggen van de wereld\Vlaggen\Vlaggen\obj\Debug\Vlaggen.pdb
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 2 Vlaggen van de wereld\Vlaggen\Vlaggen\bin\Debug\Vlaggen.exe.config
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 2 Vlaggen van de wereld\Vlaggen\Vlaggen\bin\Debug\Vlaggen.exe
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 2 Vlaggen van de wereld\Vlaggen\Vlaggen\bin\Debug\Vlaggen.pdb
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 2 Vlaggen van de wereld\Vlaggen\Vlaggen\obj\Debug\Vlaggen.csprojAssemblyReference.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 2 Vlaggen van de wereld\Vlaggen\Vlaggen\obj\Debug\MainWindow.g.cs
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 2 Vlaggen van de wereld\Vlaggen\Vlaggen\obj\Debug\App.g.cs
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 2 Vlaggen van de wereld\Vlaggen\Vlaggen\obj\Debug\Vlaggen_MarkupCompile.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 2 Vlaggen van de wereld\Vlaggen\Vlaggen\obj\Debug\Vlaggen_MarkupCompile.lref
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 2 Vlaggen van de wereld\Vlaggen\Vlaggen\obj\Debug\MainWindow.baml
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 2 Vlaggen van de wereld\Vlaggen\Vlaggen\obj\Debug\Vlaggen.g.resources
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 2 Vlaggen van de wereld\Vlaggen\Vlaggen\obj\Debug\Vlaggen.Properties.Resources.resources
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 2 Vlaggen van de wereld\Vlaggen\Vlaggen\obj\Debug\Vlaggen.csproj.GenerateResource.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 2 Vlaggen van de wereld\Vlaggen\Vlaggen\obj\Debug\Vlaggen.csproj.CoreCompileInputs.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 2 Vlaggen van de wereld\Vlaggen\Vlaggen\obj\Debug\Vlaggen.exe
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 2 Vlaggen van de wereld\Vlaggen\Vlaggen\obj\Debug\Vlaggen.pdb

@@ -1,0 +1,16 @@
+﻿<Window x:Class="Vlaggen.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Vlaggen"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="197" Width="246" MinHeight="197" MinWidth="246">
+    <Grid Background="LightBlue">
+        <Canvas x:Name="canvasFlag" HorizontalAlignment="Center" Height="64" Margin="10,10,120,93.2" VerticalAlignment="Center" Width="110" MinHeight="64" RenderTransformOrigin="0.898,0.578" MinWidth="110" />
+        <TextBox x:Name="textboxFlag" HorizontalAlignment="Left" Height="23" Margin="10,105,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="110" />
+        <Label x:Name="labelFlagName" Content="" HorizontalAlignment="Left" Margin="10,74,0,0" VerticalAlignment="Top" Width="110" HorizontalContentAlignment="Center"/>
+        <Button x:Name="buttonNextFlag" Content="Start" HorizontalAlignment="Left" Margin="143,133,0,0" VerticalAlignment="Top" Width="78" Click="ButtonNextFlag_Click" Background="#FFDDDDDD" />
+        <Button x:Name="ButtonShowName" Content="Show Name" HorizontalAlignment="Left" Margin="10,133,0,0" VerticalAlignment="Top" Width="110" Click="ButtonShowName_Click"/>
+    </Grid>
+</Window>
